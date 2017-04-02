@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">你知</string>
+    <string name="sms_hide_content">获取短信内容的6个数字</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="gank_meizi">首页</string>
+    <string name="yiyuanxinwen">易源新闻</string>
+    <string name="yy">YY</string>
+    <string name="douban_meizi">豆瓣妹纸</string>
+    <string name="huaban_meizi">花瓣妹纸</string>
+    <string name="jiandan_meizi">煎蛋妹纸</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
